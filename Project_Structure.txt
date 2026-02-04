@@ -1,0 +1,6 @@
+local_ai/
+├── ai.py        # AI brain + decision engine
+├── bot.py       # Telegram bot entry
+├── .gitignore
+├── venv/        # ignored
+└── __pycache__/ # ignored
