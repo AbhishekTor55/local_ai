@@ -1,6 +1,6 @@
 # local_ai
 
-# 🧠 OpenClaw clone 
+# 🧠 🚀 Local AI System Action Engine
 
 OpenClaw Local ek **secure, owner-controlled AI system** hai jo  
 **Telegram / Local CLI** ke through aapke **Linux PC ko control** karta hai —  
