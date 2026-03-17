@@ -98,6 +98,46 @@ Each handler safely executes system-level operations.
 This project demonstrates how a local LLM can be used to control a Linux system using structured intent-based execution.
 
 
+Built with:
+- Python
+- Ollama
+- Flask
+- Telegram Bot API
+
+Version: v1.0
+
+---
+
+# 🔥 BONUS (Pro Tip)
+
+Push ke baad:
+
+👉 GitHub open karo  
+👉 README preview check karo  
+👉 Star karo apne repo ko 😄  
+
+---
+
+# 💯 Final Result
+
+Ab tera project:
+
+- 💻 Structured hai  
+- 🧠 AI-based lag raha hai  
+- 🚀 GitHub-ready hai  
+- 💼 Portfolio worthy hai  
+
+---
+
+Agar tu bole to next step me:
+
+👉 Telegram bot ko AI se connect karenge  
+👉 Natural language commands (Hinglish)  
+👉 Auto install packages (gcc missing fix etc)
+
+just say its next level AI: **“next level AI”** 😎
+
+
 ---
 
 ## ⚙️ Setup
@@ -113,13 +153,5 @@ pip install -r requirements.txt
 python main.py
 
 
-
-Built with:
-- Python
-- Ollama
-- Flask
-- Telegram Bot API
-
-Version: v1.0
 
 
