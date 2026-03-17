@@ -2,6 +2,9 @@ import subprocess
 import sys
 import time
 import os
+from memory.memory import MemoryEngine
+
+memory = MemoryEngine()
 
 print("🚀 Starting OpenClaw Local AI System...")
 
