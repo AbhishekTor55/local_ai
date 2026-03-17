@@ -1,6 +1,6 @@
 
 
-# 🧠 🚀 Local AI System Action Engine
+# 🧠 🚀 Local AI System Action Engine (OpenClaw Style)
 
 OpenClaw Local ek **secure, owner-controlled AI system** hai jo  
 **Telegram / Local CLI** ke through aapke **Linux PC ko control** karta hai —  
@@ -8,6 +8,21 @@ OpenClaw Local ek **secure, owner-controlled AI system** hai jo
 
 
 🚀 Local AI System Action Engine
+
+
+---
+
+## 📁 Project Structure
+local_ai/
+│── ai/
+│── memory/
+│── create_folder/
+│── delete_folder/
+│── clean_python_project/
+│── dispatcher.py
+│── server.py
+│── main.py
+│── bot.py
 
 This project is a modular Local Linux AI Control Engine that converts natural language into structured system actions using an LLM (Ollama).
 
@@ -17,6 +32,20 @@ User → AI (Intent Extraction) → Dispatcher → Handler → System Execution 
 The AI strictly converts human language into JSON-based intents.
 The dispatcher routes intents to modular handlers.
 Each handler safely executes system-level operations.
+
+## 🚀 Features
+
+- 🧠 Memory System (JSON based)
+- 📜 Command History Tracking
+- ⚠️ Error Tracking & Prediction
+- 🧩 Intent-based Command Execution
+- 🔁 Session Memory
+- 🤖 AI Processing Layer (process engine)
+- 📂 File & Folder Management
+- 🧹 Python Project Cleaner
+- 📶 WiFi Status Checker
+- 🔄 Reboot / Shutdown System
+
 
 🔥 Features Implemented:
 
@@ -67,6 +96,23 @@ Each handler safely executes system-level operations.
 ✔ Production-style separation of logic  
 
 This project demonstrates how a local LLM can be used to control a Linux system using structured intent-based execution.
+
+
+---
+
+## ⚙️ Setup
+
+```bash
+git clone https://github.com/AbhishekTor55/local_ai.git
+cd local_ai
+
+python -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+python main.py
+
+
 
 Built with:
 - Python
